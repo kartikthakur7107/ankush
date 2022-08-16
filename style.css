@@ -1,4 +1,4 @@
-/* CSS Mini Reset */
+/* CSS Mini Reset  https://github.githubassets.com/images/modules/site/home/hero-glow.svg */
 
 html,
 body,
@@ -39,11 +39,41 @@ caption {
 img {
     border: 0;
 }
-main {
+body {
+    background-image: url(https://github.githubassets.com/images/modules/site/home/hero-glow.svg);
+    background-size: 2900px;
+  }
+article.timeline-entry:last-child{
     background-image: url(https://github.githubassets.com/images/modules/site/home/hero-glow.svg);
     background-size: 3000px;
   }
+<<<<<<< HEAD
 
+=======
+  article.timeline-entry:first-child{
+    background-image: url(https://github.githubassets.com/images/modules/site/home/hero-glow.svg);
+    background-size: 5000px;
+  }
+
+  article.timeline-entry{
+    background-image: url(https://github.githubassets.com/images/modules/site/home/hero-glow.svg);
+    background-size: 1800px;
+  }
+.navbar{
+
+}
+.second{
+    margin-left: 100px;
+
+}
+.abt{
+    z-index: 1;
+    padding: 10px;
+    font-weight: 10rem;
+    font-size: 1.5rem;
+
+} 
+>>>>>>> ee271ab8205bbf4d5aa7405fb7892d6f56845b09
 
 /* Fonts */
 
