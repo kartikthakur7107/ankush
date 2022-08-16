@@ -47,6 +47,9 @@ article.timeline-entry:last-child{
     background-image: url(https://github.githubassets.com/images/modules/site/home/hero-glow.svg);
     background-size: 3000px;
   }
+<<<<<<< HEAD
+
+=======
   article.timeline-entry:first-child{
     background-image: url(https://github.githubassets.com/images/modules/site/home/hero-glow.svg);
     background-size: 5000px;
@@ -70,6 +73,7 @@ article.timeline-entry:last-child{
     font-size: 1.5rem;
 
 } 
+>>>>>>> ee271ab8205bbf4d5aa7405fb7892d6f56845b09
 
 /* Fonts */
 
