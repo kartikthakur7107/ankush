@@ -177,13 +177,12 @@ article.timeline-entry:last-child{
     text-underline-offset: 0;
 }
 .jodd2{
-    margin: var(--v-space) 0;
+
     grid-area: intro;
-    align-self: end;
-    margin: var(--v-space) 0;
     font-weight: var(--f-weight);
-    font-size: 3rem;
-    line-height: 1.4;
+    font-size: 2.0rem;
+    line-height: 1.5;
+    height: 1rem;
 }
 /* Site Styles */
 
